@@ -25,6 +25,6 @@ This project is open source - please review the LICENSE.md file for further lice
 If you have any technical questions, or concerns about licensing, please contact technical support on the [Core Electronics forums](https://forum.core-electronics.com.au/).
 
 # Attribution
-The hardware design of this module is influenced by the design from [Sparkfun](https://github.com/sparkfun/SparkFun_High_Precision_Temperature_Sensor_TMP117_Qwiic).
+The hardware design of this module is influenced by the design from [Sparkfun](https://github.com/sparkfun/SparkFun_Ambient_Sensor_VEML6030).
 
 *\"PiicoDev\" and the PiicoDev logo are trademarks of Core Electronics Pty Ltd.*
