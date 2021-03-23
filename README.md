@@ -2,7 +2,7 @@
 
 ![](Documents/piicodev-ambient-light-sensor.jpg)
 
-This is the repo for the Core Electronics [PiicoDev PiicoDev Ambient Light Sensor VEML6030](https://core-electronics.com.au/catalog/product/view/sku/CE07692).
+This is the repo for the Core Electronics [PiicoDev Ambient Light Sensor VEML6030](https://core-electronics.com.au/catalog/product/view/sku/CE07692).
 
 The PiicoDev Ambient Light Sensor is a great solution for sensing ambient light levels. Onboard is a high accuracy ambient light sensor - the VEML6030 boasts 16-bit precision. Better still, you can connect to this sensor using our PiicoDev system - no soldering is required to connect the PiicoDev Ambient Light Sensor to other devices in the PiicoDev family.
 
