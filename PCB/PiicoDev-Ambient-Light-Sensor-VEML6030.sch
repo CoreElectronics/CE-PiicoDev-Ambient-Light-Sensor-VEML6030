@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "PiicoDev Ambient Light Sensor VEML6030"
-Date "2021-12-29"
-Rev "11"
+Date "2022-02-23"
+Rev "12"
 Comp "Core Electronics"
 Comment1 "Designed at Core Electronics by Michael Ruppe"
 Comment2 "PiicoDev and the PiicoDev logo are trademarks of Core Electronics Pty Ltd."
